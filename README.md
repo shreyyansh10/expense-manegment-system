@@ -24,8 +24,8 @@
 
 bash
 # Clone the repository
-git clone https://github.com/your-username/ODOO-x-Expense-Management.git
-cd ODOO-x-Expense-Management
+git clone https://github.com/your-username/expense-Management-system.git
+cd expense-Management-system
 
 # Install dependencies
 npm install
